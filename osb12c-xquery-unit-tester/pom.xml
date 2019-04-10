@@ -73,13 +73,6 @@
 		</dependency>
 		<dependency>
 			<groupId>com.oracle.common</groupId>
-			<artifactId>xqjapi</artifactId>
-			<version>12c</version>
-			<scope>system</scope>
-			<systemPath>${common12cHome}/modules/oracle.xdk/xqjapi.jar</systemPath>
-		</dependency>
-		<dependency>
-			<groupId>com.oracle.common</groupId>
 			<artifactId>com.bea.core.xquery</artifactId>
 			<version>12c</version>
 			<scope>system</scope>
